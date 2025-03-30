@@ -9,6 +9,7 @@
 - Then we pretty-print the result 👻
 
 📜Topics practiced here🖌
+
 📌 Python syntax and execution model
 
 📌 Primitive data types
