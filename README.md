@@ -10,8 +10,13 @@
 
 📜Topics practiced here🖌
 📌 Python syntax and execution model
+
 📌 Primitive data types
+
 📌 Variables, naming conventions, and memory management
+
 📌 Operators (arithmetic)
+
 📌 String manipulation and methods
+
 📌 Advanced string formatting
